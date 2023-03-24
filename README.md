@@ -86,7 +86,7 @@ Output will be:
 }
 ```
 
-# Code Explaination
+# Code Explanation
 
 Program firstly checking given value if hex or base64.
 
